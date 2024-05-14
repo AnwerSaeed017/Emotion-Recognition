@@ -2,6 +2,7 @@
 This project involves building an emotion recognition system using a Convolutional Neural Network (CNN) model trained on the https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset from Kaggle. The goal is to identify emotions such as angry, happy, sad, surprise, fear, and disgust from grayscale images of faces. Additionally, the system can suggest the emotion of a person in real-time using a webcam.
 
 Project Structure
+
 1.Data Preparation
 Load and preprocess the dataset using ImageDataGenerator.
 Split the dataset into training and validation sets.
